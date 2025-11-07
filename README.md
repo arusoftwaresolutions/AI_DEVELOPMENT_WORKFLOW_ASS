@@ -1,5 +1,7 @@
 ﻿# AI Development Workflow  Student Assignment
 
+ [![AI MODEL Live](https://img.shields.io/badge/Project-Live-green)](https://ai-development-workflow.streamlit.app/)
+
 This repository contains:
 - Concise answers to the AI Development Workflow assignment (student dropout + hospital readmission).
 - A minimal Streamlit app to train and run two example models (student dropout RandomForest, hospital readmission GradientBoosting).
