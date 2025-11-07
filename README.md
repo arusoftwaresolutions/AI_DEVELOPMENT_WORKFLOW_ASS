@@ -14,7 +14,7 @@ This repository contains:
 
 ---
 
-## Part 1 â€” Predicting Student Dropout Rates
+## Part 1 Predicting Student Dropout Rates
 
 ### 1.1 Problem Definition
 - Objectives
@@ -60,7 +60,7 @@ This repository contains:
 
 ---
 
-## Part 2 â€” Hospital Readmission Case Study
+## Part 2 Hospital Readmission Case Study
 
 ### 2.1 Problem Scope
 - Problem statement
@@ -111,7 +111,7 @@ This repository contains:
 
 ---
 
-## Part 3 â€” Critical Thinking
+## Part 3 Critical Thinking
 
 ### 3.1 Ethics & Bias
 - Example harm from biased data
@@ -127,7 +127,7 @@ This repository contains:
 
 ---
 
-## Part 4 â€” Reflection & Workflow Diagram
+## Part 4 Reflection & Workflow Diagram
 
 ### 4.1 Reflection
 - Most challenging part
