@@ -1,4 +1,4 @@
-﻿# AI Development Workflow â€” Student Assignment
+﻿# AI Development Workflow  Student Assignment
 
 This repository contains:
 - Concise answers to the AI Development Workflow assignment (student dropout + hospital readmission).
